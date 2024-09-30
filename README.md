@@ -1,0 +1,12 @@
+# Javascript-day-14
+![IMG-20240930-WA0002](https://github.com/user-attachments/assets/b30009ee-89f8-4c31-b7a9-2371f7fe736d)
+![IMG-20240930-WA0003](https://github.com/user-attachments/assets/b5d02b99-8e0f-4371-b47a-cd41db5bc414)
+![IMG-20240930-WA0004](https://github.com/user-attachments/assets/64e567e4-d070-413b-9199-3a9fed6c1a5f)
+![IMG-20240930-WA0005](https://github.com/user-attachments/assets/d03ee9c0-d8ae-443c-b7c6-12666f2c16e3)
+![IMG-20240930-WA0006](https://github.com/user-attachments/assets/2f8cc5f8-60c8-416c-9f2d-2546fb27da44)
+![IMG-20240930-WA0007](https://github.com/user-attachments/assets/a639b0c0-077b-4ec6-b037-e1f6440117ab)
+![IMG-20240930-WA0008](https://github.com/user-attachments/assets/55ebd07e-db3e-4f62-999f-6b04dd25f5b6)
+![IMG-20240930-WA0009](https://github.com/user-attachments/assets/07db3660-65e8-4a1c-92c1-34051003f37f)
+![IMG-20240930-WA0010](https://github.com/user-attachments/assets/602a99cb-4ad4-4b8b-a472-3067195e5bb9)
+![IMG-20240930-WA0011](https://github.com/user-attachments/assets/820bba22-f01f-4cd8-befe-c4bc53f1e13e)
+![IMG-20240930-WA0012](https://github.com/user-attachments/assets/7abe95d8-758a-475f-8bb9-fd82d2a17bd2)
